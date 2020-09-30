@@ -12,3 +12,5 @@ Hacktoberfest_for_beginners
 
 This time you need 4 PULL REQUESTS to complete the challenge!
 To register for the challege visit: https://hacktoberfest.digitalocean.com/
+
+Check ISSUES for more .......
