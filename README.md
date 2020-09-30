@@ -1,8 +1,8 @@
 # Hacktoberfest
-Hacktoberfest_for_beginners
-A repo for beginners to learn about git and avail their hacktoberfest swags!
+Hacktoberfest_for_beginners  
+*A repo for beginners to learn about git and avail their hacktoberfest swags!*
 
-Steps:
+## Steps:
 
 1. Fork this repo
 2. Add a new .md (markdown) file with your name.
@@ -11,3 +11,4 @@ Steps:
 5. Congrats you just created your first pull request!
 
 This time you need 4 PULL REQUESTS to complete the challenge!
+To register for the challege visit: https://hacktoberfest.digitalocean.com/
