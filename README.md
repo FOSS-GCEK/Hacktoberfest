@@ -14,5 +14,5 @@ This time you need 4 PULL REQUESTS to complete the challenge!
 
 check ISSUES for more.....!!
 
-To register for the challege visit: https://hacktoberfest.digitalocean.com/
+To register for the challenge visit: https://hacktoberfest.digitalocean.com/
 
