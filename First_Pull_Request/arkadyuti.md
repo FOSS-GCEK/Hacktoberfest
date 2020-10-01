@@ -1,0 +1,1 @@
+Hey, Arkadyuti reporting in. Hacktoberfest craze is on!
