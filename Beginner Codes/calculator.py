@@ -1,3 +1,4 @@
+#This function adds two numbers
 def add(x, y):
     return x + y
 
@@ -12,12 +13,13 @@ def multiply(x, y):
 # This function divides two numbers
 def divide(x, y):
     return x / y
-
-def swap(x,y)
-    temp := a
-    a := b
-    b := temp
+#This function swaps two numbers
+def swap(x,y):
+    temp = a
+    a = b
+    b = temp
     return x,y
+
 
 print("Select operation.")
 print("1.Add")
@@ -47,7 +49,7 @@ while True:
         elif choice == '4':
             print(num1, "/", num2, "=", divide(num1, num2))
             
-        elif choice =='5';
+        elif choice =='5':
             print("Swapped", num1, "and", num2, "=", swap(num1,num2))
         break
     else:
