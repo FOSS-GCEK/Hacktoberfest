@@ -4,7 +4,7 @@ The purpose of this repo is three-fold:
 2. To create a database of basic and interesting programs that beginners can take a look at. 
 3. To create a list of FOSS enthusiasts of GCEK
 
-*Please submit a pull request only if you're a student of GCEK. Other pull requests will not be accepted.*
+*Please submit a pull request only if you're a **student of GCEK**. Other pull requests will not be accepted.*
 
 ## Steps:
 1. Fork this repo
